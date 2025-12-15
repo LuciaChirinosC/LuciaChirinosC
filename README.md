@@ -11,13 +11,12 @@ Data Analytics • Environmental & Business Insights • Data-Driven Decisions
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucia-alejandra-chirinos-cornejo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-green?logo=linkedin&logoColor=white">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lchirinosc17@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email-green?logo=gmail&logoColor=white">
   </a>
 </p>
-
 
 
 
