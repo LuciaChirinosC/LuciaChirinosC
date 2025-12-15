@@ -4,12 +4,13 @@
 
 
 
-<h1 align="center">Hi, I'm Lucía Chirinos Cornejo 👋</h1>
+<h1 align="center">Hi, I'm Lucia Chirinos Cornejo 👋</h1>
 
 <p align="center">
 Environmental Engineer & Data Analyst <br>
-Sustainability • Environmental Data • Data-Driven Decisions
+Data Analytics • Environmental & Business Insights • Data-Driven Decisions
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucia-alejandra-chirinos-cornejo">
