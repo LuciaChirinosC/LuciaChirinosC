@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://placehold.co/1200x300?text=Lucia+Chirinos+%7C+Environmental+Data+%26+Sustainability" alt="banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi, I'm Lucía Alejandra Chirinos Cornejo 👋</h1>
 
 <p align="center">
