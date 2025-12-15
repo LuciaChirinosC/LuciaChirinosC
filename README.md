@@ -5,6 +5,15 @@ Environmental Engineer & Data Analyst <br>
 Sustainability • Environmental Data • Data-Driven Decisions
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <!--
 **LuciaChirinosC/LuciaChirinosC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
