@@ -21,12 +21,13 @@ Data Analytics • Environmental & Business Insights • Data-Driven Decisions
 ## About me
 Environmental Engineer & Data Analyst with over 10 years of experience in environmental management, sustainability, and waste management across infrastructure, industrial, textile, and consulting sectors.
 
-I combine strong field and regulatory expertise with data analytics skills to transform environmental and operational data into actionable insights that support compliance, efficiency, and strategic decision-making.
+I combine strong field and regulatory expertise with data analytics skills to transform environmental, operational, and business data into actionable insights that support compliance, efficiency, and strategic decision-making.
 
-- 🌱 Solid background in **environmental management, ESG compliance, and ISO 14001**
-- 📊 Data analytics applied to **environmental, operational, and business problems**
+- 🌱 Solid background in environmental management, ESG compliance, and ISO 14001
+- 📊 Data analytics applied to environmental, operational, and business problems
+- 🧠 Experience leading teams, standardizing reports, and improving operational indicators
 - 🎓 Master’s degree in Waste Treatment & Management (Spain)
-- 🎓 Data Analytics training (Python, SQL, Power BI)
+- 🎓 Data Analytics training: Python, SQL, Power BI
 
 
 ## Tech stack
