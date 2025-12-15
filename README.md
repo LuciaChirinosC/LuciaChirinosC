@@ -30,51 +30,72 @@ I combine strong field and regulatory expertise with data analytics skills to tr
 
 
 ## Tech stack
-- **Programming & Data:** Python, SQL, Pandas, NumPy
-- **Visualization:** Power BI, Tableau, Matplotlib
-- **Environmental tools:** SIGERSOL, environmental indicators & reporting
-- **Other:** Excel (advanced), Git/GitHub, documentation & reporting
+- **Programming & Data:** Python, SQL, Pandas, NumPy  
+- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Environmental tools:** SIGERSOL, environmental indicators & reporting  
+- **Other:** Excel (advanced), Git/GitHub, documentation & reporting  
+
+---
 
 ## Featured projects
 
-### ♻️ Environmental Modeling with Python — Solid Waste Analysis
-**Industrial plant | Python**
+### 🚀 Operational Performance Analytics — Python, SQL & Tableau
+**End-to-end operational analytics project**
 
-- Cleaned and analyzed historical solid waste data.
-- Built an **ARIMA model** to forecast waste generation.
-- Proposed optimization strategies with potential **15% reduction in final disposal**.
+- Identified operational inefficiencies using performance KPIs.
+- Performed exploratory analysis and statistical validation.
+- Built an **interactive Tableau dashboard** to support management decisions.
+- Delivered actionable insights through notebooks, dashboards, and executive reporting.
 
-🔗 https://github.com/LuciaChirinosC/Environmental-modeling-waste-python.git
+🔗 https://github.com/LuciaChirinosC/Operational_Performance_Analytics_Python_SQL_Tableau
 
 ---
 
 ### 🧹 Customer Cleansing & Segmentation — Store 1
-**TripleTen Bootcamp | Python & Analytics**
+**Customer analytics & KPI design**
 
 - Cleaned and standardized customer datasets.
 - Designed **KPIs** to improve loyalty and marketing strategies.
-- Performed customer segmentation to support business decisions.
+- Performed customer segmentation to support data-driven business decisions.
 
-🔗 Part 1: https://github.com/LuciaChirinosC/P1.Store_1Data_customer_cleansing.git  
-🔗 Part 2: https://github.com/LuciaChirinosC/P2.Store1_Customer-Analysis.git
+🔗 Part 1 – Data Cleaning:  
+https://github.com/LuciaChirinosC/P1.Store_1Data_customer_cleansing.git  
+
+🔗 Part 2 – Customer Analysis & Segmentation:  
+https://github.com/LuciaChirinosC/P2.Store1_Customer-Analysis.git  
 
 ---
 
-### 📦 Exploratory Data Analysis — Instacart Orders
-**TripleTen Bootcamp | Python**
+### 📦 Customer Purchase Behavior Analysis — Instacart Orders
+**Exploratory customer and order analytics**
 
-- Processed large datasets using Pandas.
-- Identified purchasing patterns and order frequency.
+- Processed large datasets using **Pandas**.
+- Identified purchasing patterns, reorder behavior, and order frequency.
 - Built visual insights to support data-driven conclusions.
 
-🔗 https://github.com/LuciaChirinosC/P4._Instacart-Orders_Data_Cleaning-EDA.git
+🔗 https://github.com/LuciaChirinosC/P4_Customer_Purchase_Behavior_Analysis_Instacart
 
 ---
 
-### 🎮 Video Game Sales Analysis — Ice
-**TripleTen Bootcamp | Python**
+### 📊 Market & Sales Analysis with Python — Video Games Industry
+**Market analysis & hypothesis testing**
 
 - Analyzed sales by region, platform, and genre.
-- Tested hypotheses to identify the most profitable segments.
+- Tested statistical hypotheses to identify the most profitable segments.
+- Supported strategic decisions using data analysis and visualization.
+
+🔗 https://github.com/LuciaChirinosC/Market_Sales_Analysis_Video_Games_Industry
+
+---
+
+### ♻️ Environmental Modeling with Python — Solid Waste Analysis
+**Environmental data analytics**
+
+- Cleaned and analyzed historical solid waste data from an industrial plant.
+- Built an **ARIMA model** to forecast waste generation.
+- Proposed optimization strategies with potential **15% reduction in final disposal**.
+
+🔗 https://github.com/LuciaChirinosC/Environmental_Modeling_Python
+
 
 🔗 https://github.com/LuciaChirinosC/P6.Ice-Video_Games_Analysis.git
