@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1200x300?text=Lucia+Chirinos+%7C+Environmental+Data+%26+Sustainability" alt="banner" width="100%" />
+  <img src="assets/banner.png" alt="Lucía Chirinos - Environmental Data & Sustainability" width="100%" />
 </p>
 
 
