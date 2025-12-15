@@ -2,7 +2,6 @@
   <img src="./assets/banner.png.png" alt="Lucia Chirinos Cornejo - Data Analytics" width="100%" />
 </p>
 
-
 <h1 align="center">Hi, I'm Lucia Chirinos Cornejo 👋</h1>
 
 <p align="center">
