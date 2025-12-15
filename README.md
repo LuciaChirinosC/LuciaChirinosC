@@ -3,7 +3,6 @@
 </p>
 
 
-
 <h1 align="center">Hi, I'm Lucia Chirinos Cornejo 👋</h1>
 
 <p align="center">
@@ -13,12 +12,13 @@ Data Analytics • Environmental & Business Insights • Data-Driven Decisions
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucia-alejandra-chirinos-cornejo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lchirinosc17@gmail.com&su=Contact%20from%20GitHub&body=Hi%20Lucia%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lchirinosc17@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white">
   </a>
 </p>
+
 
 
 
