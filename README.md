@@ -17,3 +17,14 @@ Data Analytics • Environmental & Business Insights • Data-Driven Decisions
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-green?logo=gmail&logoColor=white">
   </a>
 </p>
+
+## About me
+Environmental Engineer & Data Analyst with over 10 years of experience in environmental management, sustainability, and waste management across infrastructure, industrial, textile, and consulting sectors.
+
+I combine strong field and regulatory expertise with data analytics skills to transform environmental and operational data into actionable insights that support compliance, efficiency, and strategic decision-making.
+
+- 🌱 Solid background in **environmental management, ESG compliance, and ISO 14001**
+- 📊 Data analytics applied to **environmental, operational, and business problems**
+- 🎓 Master’s degree in Waste Treatment & Management (Spain)
+- 🎓 Data Analytics training (Python, SQL, Power BI)
+
