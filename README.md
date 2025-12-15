@@ -28,3 +28,53 @@ I combine strong field and regulatory expertise with data analytics skills to tr
 - 🎓 Master’s degree in Waste Treatment & Management (Spain)
 - 🎓 Data Analytics training (Python, SQL, Power BI)
 
+
+## Tech stack
+- **Programming & Data:** Python, SQL, Pandas, NumPy
+- **Visualization:** Power BI, Tableau, Matplotlib
+- **Environmental tools:** SIGERSOL, environmental indicators & reporting
+- **Other:** Excel (advanced), Git/GitHub, documentation & reporting
+
+## Featured projects
+
+### ♻️ Environmental Modeling with Python — Solid Waste Analysis
+**Industrial plant | Python**
+
+- Cleaned and analyzed historical solid waste data.
+- Built an **ARIMA model** to forecast waste generation.
+- Proposed optimization strategies with potential **15% reduction in final disposal**.
+
+🔗 https://github.com/LuciaChirinosC/Environmental-modeling-waste-python.git
+
+---
+
+### 🧹 Customer Cleansing & Segmentation — Store 1
+**TripleTen Bootcamp | Python & Analytics**
+
+- Cleaned and standardized customer datasets.
+- Designed **KPIs** to improve loyalty and marketing strategies.
+- Performed customer segmentation to support business decisions.
+
+🔗 Part 1: https://github.com/LuciaChirinosC/P1.Store_1Data_customer_cleansing.git  
+🔗 Part 2: https://github.com/LuciaChirinosC/P2.Store1_Customer-Analysis.git
+
+---
+
+### 📦 Exploratory Data Analysis — Instacart Orders
+**TripleTen Bootcamp | Python**
+
+- Processed large datasets using Pandas.
+- Identified purchasing patterns and order frequency.
+- Built visual insights to support data-driven conclusions.
+
+🔗 https://github.com/LuciaChirinosC/P4._Instacart-Orders_Data_Cleaning-EDA.git
+
+---
+
+### 🎮 Video Game Sales Analysis — Ice
+**TripleTen Bootcamp | Python**
+
+- Analyzed sales by region, platform, and genre.
+- Tested hypotheses to identify the most profitable segments.
+
+🔗 https://github.com/LuciaChirinosC/P6.Ice-Video_Games_Analysis.git
