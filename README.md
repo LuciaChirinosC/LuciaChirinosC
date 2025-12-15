@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Lucia Chirinos Cornejo - Data Analytics" width="100%" />
+  <img src="./assets/banner.png.png" alt="Lucia Chirinos Cornejo - Data Analytics" width="100%" />
 </p>
 
 
 
-<h1 align="center">Hi, I'm Lucía Alejandra Chirinos Cornejo 👋</h1>
+<h1 align="center">Hi, I'm Lucía Chirinos Cornejo 👋</h1>
 
 <p align="center">
 Environmental Engineer & Data Analyst <br>
