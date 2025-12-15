@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Lucía Chirinos - Environmental Data & Sustainability" width="100%" />
+  <img src="./assets/banner.png" alt="Lucia Chirinos Cornejo - Data Analytics" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Lucía Alejandra Chirinos Cornejo 👋</h1>
