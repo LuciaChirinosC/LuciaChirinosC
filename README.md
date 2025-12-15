@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Lucía Alejandra Chirinos Cornejo 👋</h1>
+
+<p align="center">
+Environmental Engineer & Data Analyst <br>
+Sustainability • Environmental Data • Data-Driven Decisions
+</p>
+
 
 <!--
 **LuciaChirinosC/LuciaChirinosC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
