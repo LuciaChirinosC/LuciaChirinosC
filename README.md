@@ -6,13 +6,14 @@ Sustainability • Environmental Data • Data-Driven Decisions
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/lucia-alejandra-chirinos-cornejo">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TUEMAIL@gmail.com">
+  <a href="mailto:lchirinosc17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 <!--
